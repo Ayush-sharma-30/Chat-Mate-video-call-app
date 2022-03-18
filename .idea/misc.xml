@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/ayush sharma/AndroidStudioProjects/ChatMate2/app/src/main/res/drawable/button_style.xml" value="0.14322916666666666" />
+        <entry key="..\:/Users/ayush sharma/AndroidStudioProjects/ChatMate2/app/src/main/res/drawable/button_style_2.xml" value="0.14322916666666666" />
+        <entry key="..\:/Users/ayush sharma/AndroidStudioProjects/ChatMate2/app/src/main/res/drawable/button_style_rounded.xml" value="0.1537037037037037" />
+        <entry key="..\:/Users/ayush sharma/AndroidStudioProjects/ChatMate2/app/src/main/res/drawable/button_style_rounded_2.xml" value="0.1537037037037037" />
+        <entry key="..\:/Users/ayush sharma/AndroidStudioProjects/ChatMate2/app/src/main/res/drawable/textbox.xml" value="0.14322916666666666" />
+        <entry key="..\:/Users/ayush sharma/AndroidStudioProjects/ChatMate2/app/src/main/res/font/bangers.xml" value="0.28020833333333334" />
+        <entry key="..\:/Users/ayush sharma/AndroidStudioProjects/ChatMate2/app/src/main/res/font/denk_one.xml" value="0.1537037037037037" />
+        <entry key="..\:/Users/ayush sharma/AndroidStudioProjects/ChatMate2/app/src/main/res/layout/activity_dashboard.xml" value="0.16" />
+        <entry key="..\:/Users/ayush sharma/AndroidStudioProjects/ChatMate2/app/src/main/res/layout/activity_login.xml" value="0.264" />
+        <entry key="..\:/Users/ayush sharma/AndroidStudioProjects/ChatMate2/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/Users/ayush sharma/AndroidStudioProjects/ChatMate2/app/src/main/res/layout/activity_signup.xml" value="0.25" />
+        <entry key="..\:/Users/ayush sharma/AndroidStudioProjects/ChatMate2/app/src/main/res/menu/menu.xml" value="0.1" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
